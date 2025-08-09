@@ -55,18 +55,18 @@ Master languages effortlessly and deeply with AI, right in your browser.
 
 ## 📺 Demo
 
-![Read Frog](/assets/read-demo.gif)
+![inWind Translate](/assets/read-demo.gif)
 
 <div align="center">
-  <img src="assets/node-translation-demo.gif" width="38%" alt="Read Frog Popup Interface" />
-  <img src="assets/page-translation-demo.gif" width="60%" alt="Read Frog Translation Interface" />
+  <img src="assets/node-translation-demo.gif" width="38%" alt="inWind Translate Popup Interface" />
+  <img src="assets/page-translation-demo.gif" width="60%" alt="inWind Translate Translation Interface" />
 </div>
 
 ## 👋🏻 Getting Started & Join Our Community
 
-Read Frog's vision is to provide an easy-to-use, intelligent, and personalized language learning experience for language learners of all levels. This has become possible in the AI era, but there are few products on the market that meet this demand. Therefore, we decided to take matters into our own hands and ultimately make the world no longer reliant on human language instructors.
+inWind Translate's vision is to provide an easy-to-use, intelligent, and personalized language learning experience for language learners of all levels. This has become possible in the AI era, but there are few products on the market that meet this demand. Therefore, we decided to take matters into our own hands and ultimately make the world no longer reliant on human language instructors.
 
-Whether you are a user or a developer, Read Frog will be an important part of your journey toward this vision. Please be aware that Read Frog is currently under active development, and feedback is welcome for any [issues][issues-link] encountered.
+Whether you are a user or a developer, inWind Translate will be an important part of your journey toward this vision. Please be aware that inWind Translate is currently under active development, and feedback is welcome for any [issues][issues-link] encountered.
 
 ### Download
 
@@ -110,7 +110,7 @@ Whether you are a user or a developer, Read Frog will be an important part of yo
 
 ## ✨ Features
 
-Transform your everyday web reading into an immersive language learning journey! Read Frog is your intelligent companion that makes language learning natural and enjoyable.
+Transform your everyday web reading into an immersive language learning journey! inWind Translate is your intelligent companion that makes language learning natural and enjoyable.
 
 - Immersive Translation: Translate elements directly adjacent to the original elements on the webpage
 - Smart Content Extraction: Automatically identifies and extracts the main content from articles
@@ -118,7 +118,7 @@ Transform your everyday web reading into an immersive language learning journey!
 - Contextual Learning: Learn languages through content you're actually interested in
 - Multiple AI Models: OpenAI, DeepSeek, and more in the future
 
-Whether you're reading news, articles, or any web content, Read Frog helps you understand and learn languages in depth. It's like having a language teacher right in your browser!
+Whether you're reading news, articles, or any web content, inWind Translate helps you understand and learn languages in depth. It's like having a language teacher right in your browser!
 
 Perfect for:
 
@@ -126,7 +126,7 @@ Perfect for:
 - Readers who want to understand foreign language articles better
 - Anyone who wants to make their web browsing more educational
 
-Join our growing community of language learners and help shape the future of Read Frog!
+Join our growing community of language learners and help shape the future of inWind Translate!
 
 <div align="right">
 
@@ -138,7 +138,7 @@ Join our growing community of language learners and help shape the future of Rea
 
 Contributions of all types are more than welcome.
 
-1. Promote Read Frog to your friends and family.
+1. Promote inWind Translate to your friends and family.
 2. Report [issues][issues-link] and feedback.
 3. Contribute code.
 

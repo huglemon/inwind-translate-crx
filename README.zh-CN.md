@@ -55,18 +55,18 @@
 
 ## 📺 演示
 
-![Read Frog](/assets/read-demo.gif)
+![inWind Translate](/assets/read-demo.gif)
 
 <div align="center">
-  <img src="assets/node-translation-demo.gif" width="38%" alt="Read Frog 弹窗界面" />
-  <img src="assets/page-translation-demo.gif" width="60%" alt="Read Frog 翻译界面" />
+  <img src="assets/node-translation-demo.gif" width="38%" alt="inWind Translate 弹窗界面" />
+  <img src="assets/page-translation-demo.gif" width="60%" alt="inWind Translate 翻译界面" />
 </div>
 
 ## 👋🏻 快速开始 & 加入我们的社区
 
-Read Frog 的愿景是为各个级别的语言学习者提供易于使用、智能化和个性化的语言学习体验。这在AI时代已成为可能，但市场上很少有产品满足这一需求。因此，我们决定自己动手，最终让世界不再依赖人类语言教师。
+inWind Translate 的愿景是为各个级别的语言学习者提供易于使用、智能化和个性化的语言学习体验。这在AI时代已成为可能，但市场上很少有产品满足这一需求。因此，我们决定自己动手，最终让世界不再依赖人类语言教师。
 
-无论您是用户还是开发者，Read Frog 都将是您实现这一愿景的方式。请注意，Read Frog 目前正在积极开发中，欢迎对遇到的任何[问题][issues-link]提供反馈。
+无论您是用户还是开发者，inWind Translate 都将是您实现这一愿景的方式。请注意，inWind Translate 目前正在积极开发中，欢迎对遇到的任何[问题][issues-link]提供反馈。
 
 ### 下载
 
@@ -110,7 +110,7 @@ Read Frog 的愿景是为各个级别的语言学习者提供易于使用、智�
 
 ## ✨ 功能
 
-将您的日常网络阅读转变为沉浸式语言学习之旅！Read Frog 是您的智能伴侣，让语言学习变得自然而愉快。
+将您的日常网络阅读转变为沉浸式语言学习之旅！inWind Translate 是您的智能伴侣，让语言学习变得自然而愉快。
 
 - 沉浸式翻译：直接在网页原始元素旁边翻译内容
 - 智能内容提取：自动识别并提取文章的主要内容
@@ -118,7 +118,7 @@ Read Frog 的愿景是为各个级别的语言学习者提供易于使用、智�
 - 情境学习：通过您真正感兴趣的内容学习语言
 - 多种AI模型：支持 OpenAI、DeepSeek，未来将支持更多
 
-无论您在阅读新闻、文章还是任何网络内容，Read Frog 都能帮助您深入理解和学习语言。就像在浏览器中拥有一位语言老师！
+无论您在阅读新闻、文章还是任何网络内容，inWind Translate 都能帮助您深入理解和学习语言。就像在浏览器中拥有一位语言老师！
 
 适用人群：
 
@@ -126,7 +126,7 @@ Read Frog 的愿景是为各个级别的语言学习者提供易于使用、智�
 - 希望更好理解外语文章的读者
 - 任何想让网络浏览更具教育意义的人
 
-加入我们不断增长的语言学习者社区，帮助塑造 Read Frog 的未来！
+加入我们不断增长的语言学习者社区，帮助塑造 inWind Translate 的未来！
 
 <div align="right">
 
@@ -138,7 +138,7 @@ Read Frog 的愿景是为各个级别的语言学习者提供易于使用、智�
 
 我们欢迎各种类型的贡献。
 
-1. 向您的朋友和家人推广 Read Frog。
+1. 向您的朋友和家人推广 inWind Translate。
 2. 报告[问题][issues-link]和反馈。
 3. 贡献代码。
 

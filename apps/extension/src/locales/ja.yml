@@ -1,6 +1,6 @@
-name: 読書カエル
-extName: 読書カエル - オープンソースインビジブル翻訳
-extDescription: 読書カエルは、あらゆるウェブサイトから言語を深く学ぶために設計されたオープンソースのブラウザ拡張機能です。
+name: 乘風智能翻訳
+extName: 乘風智能翻訳 - 專業級AI外貿翻訳
+extDescription: 乘風智能翻訳は、あらゆるウェブサイトから言語を深く学ぶために設計されたオープンソースのブラウザ拡張機能です。
 popup:
   autoLang: 自動検出
   sourceLang: ソース言語
@@ -18,7 +18,7 @@ popup:
     description: より多くのヒントとトリックを発見します
   book:
     title: 電子書籍
-    description: 任意のePub書籍をAIで読み解きます。（Neat Reader と Read Frog は独立した製品です。Neat Reader での購入は Read Frog とは関係ありません。）
+    description: 任意のePub書籍をAIで読み解きます。（Neat Reader と 乘風智能翻訳 は独立した製品です。Neat Reader での購入は 乘風智能翻訳 とは関係ありません。）
   discord:
     title: Discord
     description: 開発者や他のユーザーとつながる

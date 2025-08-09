@@ -66,7 +66,7 @@ export default function Privacy() {
           <p>
             <strong>Application</strong>
             {' '}
-            refers to Read Frog, the software
+            refers to inWind Translate, the software
             program provided by the Company.
           </p>
         </li>
@@ -76,7 +76,7 @@ export default function Privacy() {
             {' '}
             (referred to as either &quot;the
             Company&quot;, &quot;We&quot;, &quot;Us&quot; or &quot;Our&quot; in
-            this Agreement) refers to Read Frog.
+            this Agreement) refers to inWind Translate.
           </p>
         </li>
         <li>

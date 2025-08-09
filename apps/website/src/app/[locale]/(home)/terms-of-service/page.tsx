@@ -13,16 +13,16 @@ export default function TermsOfService() {
         <strong>Terms and Conditions</strong>
       </h2>
 
-      <p>Welcome to Read Frog!</p>
+      <p>Welcome to inWind Translate!</p>
 
       <p>
         These terms and conditions outline the rules and regulations for the use
-        of Read Frog&apos;s Website, located at https://readfrog.mengxi.work.
+        of inWind Translate&apos;s Website, located at https://readfrog.mengxi.work.
       </p>
 
       <p>
         By accessing this website we assume you accept these terms and
-        conditions. Do not continue to use Read Frog if you do not agree to take
+        conditions. Do not continue to use inWind Translate if you do not agree to take
         all of the terms and conditions stated on this page.
       </p>
 
@@ -49,8 +49,8 @@ export default function TermsOfService() {
       </h3>
 
       <p>
-        We employ the use of cookies. By accessing Read Frog, you agreed to use
-        cookies in agreement with the Read Frog&apos;s Privacy Policy.
+        We employ the use of cookies. By accessing inWind Translate, you agreed to use
+        cookies in agreement with the inWind Translate&apos;s Privacy Policy.
         {' '}
       </p>
 
@@ -67,8 +67,8 @@ export default function TermsOfService() {
       </h3>
 
       <p>
-        Unless otherwise stated, Read Frog and/or its licensors own the
-        intellectual property rights for all material on Read Frog. All
+        Unless otherwise stated, inWind Translate and/or its licensors own the
+        intellectual property rights for all material on inWind Translate. All
         intellectual property rights are reserved. You may access this from Read
         Frog for your own personal use subjected to restrictions set in these
         terms and conditions.
@@ -76,10 +76,10 @@ export default function TermsOfService() {
 
       <p>You must not:</p>
       <ul>
-        <li>Republish material from Read Frog</li>
-        <li>Sell, rent or sub-license material from Read Frog</li>
-        <li>Reproduce, duplicate or copy material from Read Frog</li>
-        <li>Redistribute content from Read Frog</li>
+        <li>Republish material from inWind Translate</li>
+        <li>Sell, rent or sub-license material from inWind Translate</li>
+        <li>Reproduce, duplicate or copy material from inWind Translate</li>
+        <li>Redistribute content from inWind Translate</li>
       </ul>
 
       <p>
@@ -95,16 +95,16 @@ export default function TermsOfService() {
         exchange opinions and information in certain areas of the website. Read
         Frog does not filter, edit, publish or review Comments prior to their
         presence on the website. Comments do not reflect the views and opinions
-        of Read Frog,its agents and/or affiliates. Comments reflect the views
+        of inWind Translate,its agents and/or affiliates. Comments reflect the views
         and opinions of the person who post their views and opinions. To the
-        extent permitted by applicable laws, Read Frog shall not be liable for
+        extent permitted by applicable laws, inWind Translate shall not be liable for
         the Comments or for any liability, damages or expenses caused and/or
         suffered as a result of any use of and/or posting of and/or appearance
         of the Comments on this website.
       </p>
 
       <p>
-        Read Frog reserves the right to monitor all Comments and to remove any
+        inWind Translate reserves the right to monitor all Comments and to remove any
         Comments which can be considered inappropriate, offensive or causes
         breach of these Terms and Conditions.
       </p>
@@ -132,7 +132,7 @@ export default function TermsOfService() {
       </ul>
 
       <p>
-        You hereby grant Read Frog a non-exclusive license to use, reproduce,
+        You hereby grant inWind Translate a non-exclusive license to use, reproduce,
         edit and authorize others to use, reproduce and edit any of your
         Comments in any and all forms, formats or media.
       </p>
@@ -190,7 +190,7 @@ export default function TermsOfService() {
         that: (a) the link would not make us look unfavorably to ourselves or to
         our accredited businesses; (b) the organization does not have any
         negative records with us; (c) the benefit to us from the visibility of
-        the hyperlink compensates the absence of Read Frog; and (d) the link is
+        the hyperlink compensates the absence of inWind Translate; and (d) the link is
         in the context of general resource information.
       </p>
 
@@ -205,7 +205,7 @@ export default function TermsOfService() {
       <p>
         If you are one of the organizations listed in paragraph 2 above and are
         interested in linking to our website, you must inform us by sending an
-        e-mail to Read Frog. Please include your name, your organization name,
+        e-mail to inWind Translate. Please include your name, your organization name,
         contact information as well as the URL of your site, a list of any URLs
         from which you intend to link to our Website, and a list of the URLs on
         our site to which you would like to link. Wait 2-3 weeks for a response.
@@ -224,7 +224,7 @@ export default function TermsOfService() {
       </ul>
 
       <p>
-        No use of Read Frog&apos;s logo or other artwork will be allowed for
+        No use of inWind Translate&apos;s logo or other artwork will be allowed for
         linking absent a trademark license agreement.
       </p>
 

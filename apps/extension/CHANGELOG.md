@@ -178,13 +178,13 @@
 
 - [`af0da30`](https://github.com/mengxi-ream/read-frog/commit/af0da303e77fa5d88e408e95b9e1d0c2f8c234a8) Thanks [@mengxi-ream](https://github.com/mengxi-ream)! - feat: add new user guide
 
-- [#58](https://github.com/mengxi-ream/read-frog/pull/58) [`e5d4107`](https://github.com/mengxi-ream/read-frog/commit/e5d41079f7b2fd98a7e35de04c71e1dffa6538c6) Thanks [@mengxi-ream](https://github.com/mengxi-ream)! - allow read frog website to set target language code
+- [#58](https://github.com/mengxi-ream/read-frog/pull/58) [`e5d4107`](https://github.com/mengxi-ream/read-frog/commit/e5d41079f7b2fd98a7e35de04c71e1dffa6538c6) Thanks [@mengxi-ream](https://github.com/mengxi-ream)! - allow inWind Translate website to set target language code
 
 ## 0.7.3
 
 ### Patch Changes
 
-- [#54](https://github.com/mengxi-ream/read-frog/pull/54) [`7a5f187`](https://github.com/mengxi-ream/read-frog/commit/7a5f1873257dc6f09e76209c3c174564a8746a94) Thanks [@mengxi-ream](https://github.com/mengxi-ream)! - send isPinned to read frog website
+- [#54](https://github.com/mengxi-ream/read-frog/pull/54) [`7a5f187`](https://github.com/mengxi-ream/read-frog/commit/7a5f1873257dc6f09e76209c3c174564a8746a94) Thanks [@mengxi-ream](https://github.com/mengxi-ream)! - send isPinned to inWind Translate website
 
 ## 0.7.2
 

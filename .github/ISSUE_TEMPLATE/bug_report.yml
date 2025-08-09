@@ -1,5 +1,5 @@
 name: Report a bug
-description: Create a report to help us improve Read Frog
+description: Create a report to help us improve inWind Translate
 labels: [bug]
 title: '[BUG] '
 assignees: []
@@ -19,7 +19,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        This template is used for reporting an issue with Read Frog.
+        This template is used for reporting an issue with inWind Translate.
 
         Feature requests should be opened via the [Feature Request Form](https://github.com/mengxi-ream/read-frog/issues/new?assignees=&labels=enhancement&projects=&template=feature_request.yml&title=)
   - type: textarea
@@ -42,7 +42,7 @@ body:
       placeholder: |
         Ex:
         1. Open a news article page
-        2. Click the Read Frog icon to open the popup
+        2. Click the inWind Translate icon to open the popup
         3. Enable Immersive Translation
         4. Observe translation not appearing on the page
     validations:

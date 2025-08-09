@@ -1,13 +1,13 @@
-export const APP_NAME = 'Read Frog'
-export const APP_DEFAULT_TITLE = 'Read Frog'
-export const APP_TITLE_TEMPLATE = '%s | Read Frog'
+export const APP_NAME = 'inWind Translate'
+export const APP_DEFAULT_TITLE = 'inWind Translate'
+export const APP_TITLE_TEMPLATE = '%s | inWind Translate'
 export const APP_DESCRIPTION
   = 'Master languages effortlessly and deeply with AI, right in your browser.'
 export const SITE_PUBLIC_URL = 'https://readfrog.app'
 
 export const APP_NAME_LOCALE = {
-  en: 'Read Frog',
-  zh: '陪读蛙',
+  en: 'inWind Translate',
+  zh: '乘风智能翻译',
 }
 
 export const NAV_ITEMS_LOCALE = {

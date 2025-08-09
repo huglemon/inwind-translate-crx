@@ -1,6 +1,6 @@
-name: 陪讀蛙
-extName: 陪讀蛙 - 開源沉浸式翻譯
-extDescription: 陪讀蛙是一款開放源代碼的瀏覽器插件，旨在幫助您從任何網站深入學習語言。
+name: 乘風智能翻譯
+extName: 乘風智能翻譯 - 專業級AI外貿翻譯
+extDescription: 乘風智能翻譯是一款專業級AI外貿翻譯工具，旨在幫助您無縫瀏覽任意網站，並提供專業級AI翻譯服務。
 popup:
   autoLang: 自動偵測
   sourceLang: 來源語言
@@ -18,7 +18,7 @@ popup:
     description: 發現更多提示和技巧
   book:
     title: 電子書
-    description: 閱讀 ePub 電子書。（Neat Reader 和陪讀蛙是獨立的產品；在 Neat Reader 中的購買與陪讀蛙無關。）
+    description: 閱讀 ePub 電子書。（Neat Reader 和乘風智能翻譯是獨立的產品；在 Neat Reader 中的購買與乘風智能翻譯無關。）
   discord:
     title: Discord
     description: 加入 Discord 服務器，與開發者和其他用戶交流

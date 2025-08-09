@@ -12,7 +12,6 @@ import FloatingButton from './components/floating-button'
 import Hotkey from './components/hotkey-selector'
 import LanguageLevelSelector from './components/language-level-selector'
 import LanguageOptionsSelector from './components/language-options-selector'
-import QuickLinks from './components/quick-links'
 import ReadButton from './components/read-button'
 import ReadProviderSelector from './components/read-provider-selector'
 import TranslateButton from './components/translate-button'
@@ -42,7 +41,7 @@ function App() {
         <AlwaysTranslate />
         <Hotkey />
         <FloatingButton />
-        <QuickLinks />
+        {/* <QuickLinks /> */}
       </div>
       <div className="flex items-center justify-between bg-neutral-200 px-2 py-1 dark:bg-neutral-800">
         <button
@@ -69,7 +68,7 @@ function GithubButton() {
   return (
     <Tooltip>
       <TooltipTrigger asChild>
-        <button
+        {/* <button
           type="button"
           className="flex cursor-pointer items-center gap-1 rounded-md px-2 py-1 hover:bg-neutral-300 dark:hover:bg-neutral-700"
           onClick={() =>
@@ -77,7 +76,7 @@ function GithubButton() {
         >
           <Icon icon="tabler:brand-github" className="size-4" strokeWidth={1.6} />
           <span className="text-[13px] font-medium">Github</span>
-        </button>
+        </button> */}
       </TooltipTrigger>
       <TooltipContent className="max-w-[180px] break-words text-center">
         {i18n.t('popup.github.description')}

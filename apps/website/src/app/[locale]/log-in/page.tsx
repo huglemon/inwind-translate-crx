@@ -23,12 +23,12 @@ export default function LogInPage() {
           <div className="text-center mb-8">
             <Image
               src="/logo.png"
-              alt="Read Frog"
+              alt="inWind Translate"
               width={80}
               height={80}
               className="mx-auto mb-4"
             />
-            <h1 className="text-2xl font-bold text-gray-900 mb-2">Read Frog</h1>
+            <h1 className="text-2xl font-bold text-gray-900 mb-2">inWind Translate</h1>
             <p className="text-gray-600">Sign in to your account</p>
           </div>
 

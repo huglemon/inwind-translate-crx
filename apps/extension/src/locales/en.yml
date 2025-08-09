@@ -1,6 +1,6 @@
-name: Read Frog
-extName: Read Frog - Open Source Immersive Translate
-extDescription: Read Frog is an open source browser extension designed to help you learn languages deeply from any website.
+name: inWind Translate
+extName: inWind Translate - Professional AI Translation
+extDescription: inWind Translate is a professional AI translation tool designed to help you seamlessly browse any website and provide professional AI translation services.
 popup:
   autoLang: Auto
   sourceLang: Source
@@ -18,7 +18,7 @@ popup:
     description: Discover more tips and tricks
   book:
     title: E-book
-    description: Read any ePub books on Neat Reader. (Neat Reader and Read Frog are independent; purchases in Neat Reader have no connection to Read Frog.)
+    description: Read any ePub books on Neat Reader. (Neat Reader and inWind Translate are independent; purchases in Neat Reader have no connection to inWind Translate.)
   discord:
     title: Discord
     description: Join Discord server to connect with developers and other users
